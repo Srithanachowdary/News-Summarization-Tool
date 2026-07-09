@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+newspaper3k
+nltk
+pdf2image
+Pillow
+pytesseract
+pdfplumber
+python-docx
+lxml
